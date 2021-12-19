@@ -892,7 +892,13 @@ color: #005717;
   font-family: RampartOne-Regular;
 }
 .tea-list-img{
+  width: 7rem;
+  height: 5rem;
+  align-items: center;
+}
+.tea-list-img2{
   width: 5rem;
+  height: 7rem;
   align-items: center;
 }
 .tea-list-elements{
@@ -1276,6 +1282,13 @@ margin-left: 5%;
 }
 .tea-list-img{
   width: 10rem;
+  height: 8rem;
+
+}
+.tea-list-img2{
+  width: 80px;
+  height: 112px;
+
 }
 .tea-list-elements{
   

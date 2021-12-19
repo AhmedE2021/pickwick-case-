@@ -765,7 +765,7 @@ color: #699f3f;
   background-image: url(images/pickwick-background-img-1.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
-
+  
   margin-top: 5px;
   display: flex;
 flex-direction: column;
@@ -787,14 +787,14 @@ padding-top: 30px;
   text-align: center;
   font-size: 30px;
   color: #005717;
-margin-bottom: 15px;
+margin-bottom: 10px;
 }
 .sub-text2{
   color: #699f3f;
   font-family:MikkelSans-Regular ;
   text-align: center;
   font-size: 25px;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 /* our---------teas--------page */
 

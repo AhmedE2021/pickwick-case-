@@ -574,6 +574,17 @@ width: 100%;
   width: 22.7rem;
 
 }
+
+.chai-mok-img{
+ 
+  width: 23.45rem;
+  
+}
+.drink-better-img{
+ width: 23rem;
+ height:9rem ;
+}
+
 }
 .taste-joy-mob{
   width: 100%;
@@ -881,7 +892,7 @@ color: #005717;
   font-family: RampartOne-Regular;
 }
 .tea-list-img{
-  width: 10rem;
+  width: 5rem;
   align-items: center;
 }
 .tea-list-elements{
@@ -910,13 +921,14 @@ border-bottom: solid 15px #5c7a3c;
 .chai-mok-img{
   width: 100%;
   height: 20rem;
+ 
   
 }
 .chai-mok-img2{
-margin-left: 60%;
+margin-left: 69%;
 margin-top: -35%;
 height: 10rem;
-width: 10rem;
+width: 7rem;
 }
 .chai-mok-dir{
  margin-top: -10%;
@@ -981,8 +993,8 @@ margin-bottom: 20px;
   background-image: url(images/sus-banner-mobile.jpg);
   background-size: cover;
   height: 25rem;
-padding-top: 5rem;
-margin-bottom:55%;
+padding-top: 4rem;
+margin-bottom:51%;
 
 }
 .sus-banner-text{
@@ -1263,7 +1275,7 @@ margin-left: 5%;
   margin-left: 6%;
 }
 .tea-list-img{
-  width: 15rem;
+  width: 10rem;
 }
 .tea-list-elements{
   
